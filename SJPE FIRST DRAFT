@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T17:43:33.911Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mRkvu3qn--B_JX9KnAuR" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T17:48:38.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jXgHQxdTLTY4linhB4S1" version="21.0.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2405" dy="885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2692" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,27 +64,27 @@
         </mxCell>
         <UserObject label="%commission%" location="comisiones" placeholders="1" commission="Pro-aniversario" id="jNewtQFUIzL7vM4BFnLH-36">
           <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/aami-web-internet/64/aami6-03-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="jNewtQFUIzL7vM4BFnLH-23">
-            <mxGeometry x="130" y="55" width="180" height="70" as="geometry" />
+            <mxGeometry x="26" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%commission%" location="comisiones" placeholders="1" commission="Donativos" id="jNewtQFUIzL7vM4BFnLH-37">
           <mxCell style="label;image=https://cdn2.iconfinder.com/data/icons/finance-253/24/money-payment-finance-coin-credit-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="jNewtQFUIzL7vM4BFnLH-23">
-            <mxGeometry x="340" y="55" width="180" height="70" as="geometry" />
+            <mxGeometry x="276" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%commission%" location="comisiones" placeholders="1" commission="Auxilios" id="jNewtQFUIzL7vM4BFnLH-39">
           <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/world-cancer-day-2022/512/Ribbon-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="jNewtQFUIzL7vM4BFnLH-23">
-            <mxGeometry x="550" y="55" width="180" height="70" as="geometry" />
+            <mxGeometry x="536" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%commission%" location="comisiones" placeholders="1" commission="Vigilancia" id="jNewtQFUIzL7vM4BFnLH-40">
           <mxCell style="label;image=https://cdn0.iconfinder.com/data/icons/startup-17/32/startup-97-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="jNewtQFUIzL7vM4BFnLH-23">
-            <mxGeometry x="760" y="55" width="180" height="70" as="geometry" />
+            <mxGeometry x="796" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="%commission%" location="comisiones" placeholders="1" commission="Evangelismo" id="jNewtQFUIzL7vM4BFnLH-41">
           <mxCell style="label;image=https://cdn4.iconfinder.com/data/icons/halloween-line-terror-night/512/Bible-1024.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;direction=east;" vertex="1" parent="jNewtQFUIzL7vM4BFnLH-23">
-            <mxGeometry x="970" y="55" width="180" height="70" as="geometry" />
+            <mxGeometry x="1066" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
