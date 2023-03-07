@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T17:48:38.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jXgHQxdTLTY4linhB4S1" version="21.0.2" type="github">
-  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2692" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-03-07T18:01:20.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fK8UdBGUqYAhZFsxaFWU" version="21.0.2" type="github" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Organigrama SJPE">
+    <mxGraphModel dx="3392" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="jNewtQFUIzL7vM4BFnLH-23" value="Comisiones" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="-226" y="460" width="1279" height="310" as="geometry">
+          <mxGeometry x="-640" y="470" width="1279" height="310" as="geometry">
             <mxRectangle x="-221" y="70" width="120" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -87,6 +87,44 @@
             <mxGeometry x="1066" y="55" width="180" height="70" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="w79O-o1hhuhKsr4AxMqt-1" value="Grupos de trabajo" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="470" width="1279" height="310" as="geometry">
+            <mxRectangle x="-221" y="70" width="120" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="%groupNumber%" location="workgroup" placeholders="1" groupNumber="Grupo 1" id="w79O-o1hhuhKsr4AxMqt-2">
+          <mxCell style="" vertex="1" parent="w79O-o1hhuhKsr4AxMqt-1">
+            <mxGeometry x="87.5" y="45" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%groupNumber%" location="workgroup" placeholders="1" groupNumber="Grupo 2" id="w79O-o1hhuhKsr4AxMqt-7">
+          <mxCell style="" vertex="1" parent="w79O-o1hhuhKsr4AxMqt-1">
+            <mxGeometry x="321.5" y="45" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%groupNumber%" location="workgroup" placeholders="1" groupNumber="Grupo 3" id="w79O-o1hhuhKsr4AxMqt-8">
+          <mxCell style="" vertex="1" parent="w79O-o1hhuhKsr4AxMqt-1">
+            <mxGeometry x="551.5" y="45" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%groupNumber%" location="workgroup" placeholders="1" groupNumber="Grupo 4" id="w79O-o1hhuhKsr4AxMqt-9">
+          <mxCell style="" vertex="1" parent="w79O-o1hhuhKsr4AxMqt-1">
+            <mxGeometry x="781.5" y="45" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%groupNumber%" location="workgroup" placeholders="1" groupNumber="Grupo 5" id="w79O-o1hhuhKsr4AxMqt-10">
+          <mxCell style="" vertex="1" parent="w79O-o1hhuhKsr4AxMqt-1">
+            <mxGeometry x="1011.5" y="45" width="180" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-MMcsEGEyFWDi8yyNGMn" name="Página-2">
+    <mxGraphModel dx="1026" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
