@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T20:39:49.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xR4Je1TEVdrvBJZhXea4" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-08T20:49:22.069Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zcK-DkHIQp_qTNWdSQPw" version="21.0.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Organigrama SJPE">
     <mxGraphModel dx="3519" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-MMcsEGEyFWDi8yyNGMn" name="Mapa de funciones">
-    <mxGraphModel dx="1804" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2034" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,6 +162,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DOclDUe6quYsK7p7FH5a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pb_8EHdyMS_Fs68eoF3p-2" target="DOclDUe6quYsK7p7FH5a-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pb_8EHdyMS_Fs68eoF3p-2" target="IHN4YqlaYsUpshtcnlxy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pb_8EHdyMS_Fs68eoF3p-2" target="IHN4YqlaYsUpshtcnlxy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pb_8EHdyMS_Fs68eoF3p-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Mapa de funciones&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -426,6 +432,21 @@
         </mxCell>
         <mxCell id="IHN4YqlaYsUpshtcnlxy-2" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Contabilizar visitantes&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IHN4YqlaYsUpshtcnlxy-11" target="IHN4YqlaYsUpshtcnlxy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-11" value="General comisiones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1703" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IHN4YqlaYsUpshtcnlxy-12" target="IHN4YqlaYsUpshtcnlxy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-12" value="General mesa directiva" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1780" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IHN4YqlaYsUpshtcnlxy-13" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Subir informe mensual&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1753" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
