@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T05:39:33.182Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oqwvOFzwqEQrTxieGHpx" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-08T05:46:05.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rGWdOk2X_B3IBCBf2pu_" version="21.0.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Organigrama SJPE">
     <mxGraphModel dx="4219" dy="1438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-MMcsEGEyFWDi8yyNGMn" name="Mapa de funciones">
-    <mxGraphModel dx="2195" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3392" dy="2607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,10 +285,19 @@
         <mxCell id="lGUQOcDVy_ZbaaV-g0UJ-25" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Contabilizar tesoro&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lGUQOcDVy_ZbaaV-g0UJ-26" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Administrar sociedad&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lGUQOcDVy_ZbaaV-g0UJ-26" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Hacer anuncios&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="-80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DOclDUe6quYsK7p7FH5a-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="DOclDUe6quYsK7p7FH5a-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="DOclDUe6quYsK7p7FH5a-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="DOclDUe6quYsK7p7FH5a-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="DOclDUe6quYsK7p7FH5a-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DOclDUe6quYsK7p7FH5a-1" value="General" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -299,6 +308,15 @@
         </mxCell>
         <mxCell id="DOclDUe6quYsK7p7FH5a-4" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font size=&quot;1&quot;&gt;Dar de alta invitaciones&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-7" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Visualizar anuncios&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-9" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Visualizar invitaciones&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1420" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DOclDUe6quYsK7p7FH5a-11" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Visualizar minutas&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1460" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
