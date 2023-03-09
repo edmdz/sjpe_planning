@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T21:15:39.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aiNGb1yLkF7O663g_dWd" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-09T14:30:28.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lrJPwxo59ww31MxNRUR6" version="21.0.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Organigrama SJPE">
     <mxGraphModel dx="3519" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-MMcsEGEyFWDi8yyNGMn" name="Mapa de funciones">
-    <mxGraphModel dx="5957" dy="3759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1804" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,9 @@
         <mxCell id="MikCdo4anq37zmlGGkx5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="MikCdo4anq37zmlGGkx5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="29-FrO2ATwZQ6JgDdVl_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DOclDUe6quYsK7p7FH5a-1" target="29-FrO2ATwZQ6JgDdVl_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DOclDUe6quYsK7p7FH5a-1" value="General" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1370" width="130" height="50" as="geometry" />
         </mxCell>
@@ -463,6 +466,9 @@
         </mxCell>
         <mxCell id="IHN4YqlaYsUpshtcnlxy-27" value="Colores significado" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="-80" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="29-FrO2ATwZQ6JgDdVl_-1" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Visualizar informes mensuales&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1660" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
